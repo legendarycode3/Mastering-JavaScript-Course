@@ -1,4 +1,4 @@
-**MASTERING HTML AND CSS COURSE** <br/> <br/>
+**MASTERING JAVASCRIPT COURSE** <br/> <br/>
 
 **Requirements**
 The minimum requirement to follow this challenge <br/>
