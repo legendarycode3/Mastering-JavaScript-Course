@@ -244,3 +244,69 @@ NOTE: With a “return value or return function” , you can use the value retur
 
 
 ➡️ **OBJECTS** <br/>
+	✔️ What is an object ?  <br/>
+	An “Object” groups related , multiple values together. <br/>
+	An “Object” let us use multiple values together. <br/>
+	An “object” is a collection  of properties , and a property is an association btw a name (or key) and a value. <br/>
+	An “Object”  lets us group multiple values  together. <br/>
+	NOTE:  A property’s value can be a function , in which case the property is known as method. <br/>
+	NOTE:  Objects are values and we can save them inside a variable.  <br/>
+
+	✔️ 2 more built-in objects (json, local storage) - objects provided by javascript. <br/>
+	(1) JSON (a built in object): This object helps us workwith something called ‘JSON’. JSON stands for “JavaScript Object Notation”. The easiet way to understand json is: <br/>
+		- a syntax , <br/>
+		- is similar to javascript object, <br/> 
+		- but it has less feeatures. <br/>
+	NOTE:  a) JSON does n’t support functions.  <br/>
+
+	✔️ Why use Json ? <br/>
+		Json is universal across most programming lang. We us JSON, when we send data between computer that might be using diffferent programming lang. Json also used when we store dta. <br/>
+	(2) LOCAL STORAGE(local storage) Built in Object: Next built-in object . “Local Storage” is used to save values more permanently compare to  “variable saving which is(json)”. Variables are temporary and only exist on the current page before it’s refreshed.   <br/>
+	  To save  a value inside “local storage” , it has a method called “.setItem()”  <br/>
+	& we are going to give 2 strings to this method in other to access thevalue we saved later..  <br/>
+	localStorage.setItem();  <br/>
+
+	✔️ Some Other Built-In Objects Include: <br/>
+	(a) Console.log();
+	(b) Math.random();
+	(c) JSON.stringify();
+	(d) localStorage 
+	(e) DOM <br/>
+
+
+
+➡️ **Document Object Model (DOM) , Window Object** <br/>
+	✔️ DOM is another built-in Object. <br/>
+	The document object represents / models of  the webpage. <br/>
+	The DOM combines “javascript” and Html together . It gives javascript full control of the webpage. <br/>
+
+	✔️ Syntax Rules For The DOM:  <br/>
+	The DOM contains “properties” [like:  body , title] that we can access using  the dot 	notation. <br/>
+	The document object also has “methods” in which we can use.  <br/>
+	E.g document.querySelector('button'); <br/>
+
+	✔️ Properties And Methods (Some We Can Use)  <br/>
+      DOM Properties Examples:   <br/>
+		(a) document.title = 'DOM Examples';  
+		(b) document.body.innerHTML = 'Nathaniel'; 
+		(c) document.body.innerText = 'legendarycode';
+		(d) document.body;  -> Lets us get the body element and put it inside our JavaScript. <br/>
+
+    	  .innerHTML:- This element is used in javascript to , “get or set” the HTML content within an element. It allows for dynamic manipulation of web pages  content , including text and HTML tags. <br/>
+
+		DOM Methods Examples: <br/>
+		Reminder: A “method” is a function that is saved inside of an object. <br/>
+   
+	- document.querySelector(‘button’); -> Lets us get any element from the page and put it inside JavaScript. <br/>
+	NOTE:  Every HTML element has a property called .innerHTML (Which lets us control the html inside the element). <br/>
+	(i) We also use the “class selector” just as we do on css. We use it on QuerySelector() , to select the element you want to make changes or give functionality in Javascript. <br/>
+	(ii) So using the “DOM” , we can get HTML elements from the page put it inside a javaScript & then save it in a Variable. <br/>
+	(iii) So the DOM combines JS & HTML together, it gives javascript full control of the webpage. <br/>
+
+	✔️ Processes  To JavaScript (problem solving) <br/>
+	a)Figure out what steps we need (algorithm). <br/>
+	b)Convert the above algorithm steps into  “Codes” <br/>
+
+
+
+➡️ **ARRAYS & LOOPS** <br/>  <br/>
