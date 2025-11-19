@@ -498,3 +498,10 @@ NOTE: With a “return value or return function” , you can use the value retur
 	(1) Make changes to code. <br/>
 	(2) And then we re-run the tests (just to make sure that everything still works). <br/>
 	(3) Save to Git. <br/>
+
+
+
+➡️ **OBJECT-ORIENTED PROGRAMMING** <br/>
+	✔️ **What Is Object-Oriented Programming:**   OOP, this is another style of programming (another way we write our code). <br/>
+	Object-Oriented Programming  =  “Organizing our code into objects (tries to represent the real-world)” .. <br/>
+
