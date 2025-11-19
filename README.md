@@ -572,3 +572,8 @@ NOTE: With a “return value or return function” , you can use the value retur
 		Fetch: A better way to make “HTTP request”.  Becus it uses Promises directly. <br/>
 		A specific API that utilizes promises to perform network requests. <br/>
 	} <br/>
+
+
+
+	kINDLY FELLOW ME ON MY SOCIALS O LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
+	<img width="2020" height="2020" alt="image" src="https://github.com/user-attachments/assets/7b1c071f-252a-4f85-b4ee-470ebcb3ae54" />
