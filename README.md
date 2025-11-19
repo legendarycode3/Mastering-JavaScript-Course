@@ -505,3 +505,70 @@ NOTE: With a “return value or return function” , you can use the value retur
 	✔️ **What Is Object-Oriented Programming:**   OOP, this is another style of programming (another way we write our code). <br/>
 	Object-Oriented Programming  =  “Organizing our code into objects (tries to represent the real-world)” .. <br/>
 
+	✔️ We Have Two Ways Of Programming:   
+	(a) Procedural Programming:  A  procedural Programming is a set of step-by-step instructions (which is basically a function). <br/>
+	NOTE:  So in otherwords , in procedural programming , we organize our codes into separate functions. <br/>
+	
+	(b) Object-Oriented Programming (OOP): In Object-Oriented Programming , we organize our code into Objects.  <br/>
+	NOTE:  TO CONVERT THE (PROCEDURAL PROGRAMMING INTO OBJECT-ORIENTED PROGRAMMING), WE ARE GOING TO GROUP ALL THE "DATA" AND "FUNCTIONs" TOGETHER INTO AN OBJECT. <br/>
+	NOTE:  Inside an “Object”, we can not  use the word (let , or  export).  Rather we can have a “property” and “a value”.  <br/>
+
+
+
+➡️ **BACK END,  CALL BACKS, PROMISES, AND ASYNC** <br/>
+	✔️ What Is A BackEnd ?:   A backend is another computer that managers the data of a website.  <br/>
+
+	✔️ Types Of Request/Message (That We Can Give To The BackEnd):   <br/>
+	(1) “GET”  =  Means , to “get some” information from the backend.  <br/>
+	
+	(2) “POST”  =   Means, we want to “create something” from the backend. 
+	Post also lets us Send data to the backend.  <br/>
+	
+	(3) “PUT”   = Means, we want to “update something” from the backend.  <br/>
+	
+	(4) “DELETE”  =  Means, we want to “delete something” from the backend.  <br/>
+
+	NOTE: URL =  “UniformResource Locator”  <br/>
+	- Like an address, but for the internet.  <br/>
+	- Helps us locate another computer on the internet.  <br/>
+	- Url looks like this e.g https://youtube.com  <br/>
+	
+	✔️ Some Terminology Based on “HTTP REQUEST”: <br/>
+	(i.) When I send a message (from my computer) , to the backend (on another computer), the message is called a “Request / Message”.<br/>
+	(ii) When the backend (the other computer) recievces our “Request / Message” , it will send an “HTTP Message” back to us. And this message is called the “Response” <br/>
+
+	✔️ What Is A ASYNCHRONOUS CODE:   Asynchronous code means, is a programming paradign where operations can be initiated and completed later , without blocking the main thread of execution. <br/>
+	You cn run multiple programs/operations concurrently without waiting . <br/>
+	It doesnot wait for the key line of code to finish, it just sends the “request” and then immeditely goes to the next. <br/>
+	E.g like “xhr.send();”
+			
+
+	NOTE: We can send diff. request or messages , to the backend(using url paths). <br/>
+	A “URL path” is a path that comes after  the domain name. <br/>
+	We can send a request to each “url paths” and this url path will give us a different response. <br/>
+
+	✔️ Status Code: <br/>
+	(a) A status code that Starts with 4 or  5 (400, 404, 500)  =  “failed". <br/>
+	(b) If it “starts with 4” , it means , “it was our problem”. <br/>
+	(c) If it “starts with 5” , it means , “It was our backend problem”.  E.g backend crashing. <br/>
+	(d) A status code that starts with 2 (200, 201, 204)   =  “succeeded”. <br/>
+
+	✔️ CALL BACK:   A function to run in the future. “fun” parameter is known as a callBack. <br/>
+	
+	✔️ Benefits Of CallBacks:
+	(i.) Control flow: Callbacks allow  you to control  the order of execution , ensuring certain code runs only after a preceding task has finished. <br/>
+	(ii.) Modularity: They promote modularity  by separating the logic of what to do from when to do it . <br/>
+	(iii.) Non-blocking operation: Essential for asynchronous tasks , preventing the main thread from being blocked. <br/>
+
+	✔️ PROMISES:   Promises a “javascript object” (built-in class) <br/>
+	Better way to handle “asynchronous code”. <br/>
+	Lets us wait for some asynchronous code to finish, before going to the next  step. Promise is a built-in class. <br/>
+	“resolve” is a function. Lets us control when to go to the next step. <br/>
+
+	✔️ Fetch:   
+	fetch(), is a built-in  “Javascript API” used for making network requests (e.g. retrive data from server , send data to n API) <br/>
+	NOTE: {  <br/>
+	Promise: Is  fundamental concept for handling “asynchronous operation” in javascript. <br/>
+		Fetch: A better way to make “HTTP request”.  Becus it uses Promises directly. <br/>
+		A specific API that utilizes promises to perform network requests. <br/>
+	} <br/>
