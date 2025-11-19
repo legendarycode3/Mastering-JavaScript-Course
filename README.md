@@ -576,4 +576,6 @@ NOTE: With a “return value or return function” , you can use the value retur
 
 
 	kINDLY FELLOW ME ON MY SOCIALS O LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
-	<img width="2020" height="2020" alt="image" src="https://github.com/user-attachments/assets/7b1c071f-252a-4f85-b4ee-470ebcb3ae54" />
+	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
+
+
