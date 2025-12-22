@@ -261,6 +261,7 @@ true, false. <br/>
 	// Expected output: false (becus but conditions are not true) </br>
 	
 	Default Operator ||  :- Similar to Guard operator but uses or </br>
+	E.g // Default Operatoer Example </br>
 
 
 
