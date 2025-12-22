@@ -226,7 +226,8 @@ true, false. <br/>
 	ii). Guard Operator  && </br>
 	iii). Default Operator || </br>
 	Ternary Operator ‘?:’  :-  It works this way, </br>
-	if value1 is “true”  ? then the result is value2 :Else the result is  value3 “false”  …….. value1 ? value2 : value3
+	if value1 is “true”  ? then the result is value2 :Else the result is  value3 “false”  …….. value1 ? value2 : value3  </br>
+	 SYNTAX: </br>
 
 
 
