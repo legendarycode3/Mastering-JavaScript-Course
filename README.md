@@ -247,7 +247,10 @@ true, false. <br/>
 		
 	✔️ Guard Operator ‘&&’ :- </br>
 	The term "guard operator" typically refers to using the logical && (AND) operator for conditional execution or value selection based on "truthiness" (short-circuit 		evaluation). </br>
-	e.g1 (for guard && operator) // Guard Operatoer Example  </br>
+	E.g1 (for guard && operator) </br>
+	// Guard Operator Example  </br>
+	const message = 5 && 'welcome'; </br>
+	console.log(message); </br>
 
 
 
