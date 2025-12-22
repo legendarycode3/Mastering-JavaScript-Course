@@ -265,6 +265,9 @@ true, false. <br/>
 	Const currency = undefined ||  ‘usd’; </br>
 	Console.log(currency); </br>
 	// SHortCut for this default operator with if-statement like this </br>
+	if(condition){ </br>
+    	console.log('hello'); </br>
+	} </br>
 
 
 
