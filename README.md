@@ -221,6 +221,7 @@ true, false. <br/>
 		e.g
 		Console.log( !false);    => results equals “true” <br/>
 
+	✔️ ShortCuts For “if-Statements” <br/>
 
 
 ➡️ **FUNCTIONS** <br/>
