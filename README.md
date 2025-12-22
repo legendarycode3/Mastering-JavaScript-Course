@@ -190,7 +190,9 @@ true, false. <br/>
 		(iii.) greater than or equal to >=
 		(iv.) lesser than or equal <=
 		(v.) equal to ===
-		(vi.) Not equal to !== 
+		(vi.) Not equal to !== </br>
+
+	✔️ Conditional Operators: </br>
 
 	✔️ Logical Operators: <br/>
 		Logical operators lets us combine boolean values. <br/>
