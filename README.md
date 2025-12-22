@@ -251,6 +251,10 @@ true, false. <br/>
 	// Guard Operator Example  </br>
 	const message = 5 && 'welcome'; </br>
 	console.log(message); </br>
+	// Guard Operator is a SHortCut for if-statement like this: </br>
+	if(condition){ </br>
+	    console.log('hello'); </br>
+	}
 
 
 
