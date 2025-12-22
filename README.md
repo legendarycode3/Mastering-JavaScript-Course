@@ -254,7 +254,9 @@ true, false. <br/>
 	// Guard Operator is a SHortCut for if-statement like this: </br>
 	if(condition){ </br>
 	    console.log('hello'); </br>
-	}
+	} </br>
+	const a = 3; </br>
+	const b = -2; </br>
 
 
 
