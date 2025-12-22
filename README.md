@@ -193,6 +193,7 @@ true, false. <br/>
 		(vi.) Not equal to !== </br>
 
 	✔️ Conditional Operators: </br>
+		Conditional operators, in javascript , the primary conditional operator is  the “ternary operator ( ? : )”  It is a  shorthand way of writing “if … else statement”. 		Allowing you to evaluate condition and return one of two expressions based on  whetherthe condition is true or false. </br>
 
 	✔️ Logical Operators: <br/>
 		Logical operators lets us combine boolean values. <br/>
