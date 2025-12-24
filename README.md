@@ -769,7 +769,17 @@ The primary methods are :
 1) CallBacks: </br>
 	i. A callback function is passed as an argument to another function and  executed once the asynchronous operation completes. </br>
 	ii. Previously original method for handling asynchronicity in javascript, but it can lead to “callback hell”(deeply nested callbacks) in complex senenario. </br>
+E.g of callback function below </br>
+function getData(callback) { </br>
+    setTimeout(() => {  </br>
+        const data = "Get data";
+        callback(data);
+    }, 2000); </br>
+} </br>
 
+getData((res) => { </br>
+    console.log(res);  //logs  "get Data" after 2 seconds
+}); </br>
 
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
