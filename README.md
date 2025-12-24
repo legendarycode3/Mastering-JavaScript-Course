@@ -781,6 +781,7 @@ getData((res) => { </br>
 }); </br>
 
 2) Promises: </br>
+	i. Promises represent the eventual completion (or failure) of an asynchronous operation and its resulting value. </br>
 
 
 
