@@ -814,6 +814,7 @@ getData() </br>
 	ii.) “async” = makes a function return a promise. And “async” lets us use await. </br>
 	iii.) “async await” , can only be used with promises. </br>
 	iv.) Lets us “write asyncronous code” like normal code. </br>
+	v.) “await” = Lets us wait for promise to finish before going to the next line. </br>
 
 
 
