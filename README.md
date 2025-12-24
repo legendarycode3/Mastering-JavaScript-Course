@@ -659,6 +659,22 @@ NOTE: With a “return value or return function” , you can use the value retur
 	2.) It offers a more cleaner, and more flexible way to handle HTTP requests compared older methods </br>
 	3.) “fetch” http request, is promised based, Fetch leverages javascript promises, simplifying asynchronous operations and making codes, more cleaner & more readable  compare to older callback based method like “XMLHttpRequest”. </br>
 	E.g 1 using fetch API for HTTP request 	</br>
+	
+	function loadProductsFetch() { </br>
+  		const promise = fetch(
+    		'https://supersimplebackend.dev/products'
+  	).then((response) => { </br>
+    // console.log(response); </br>
+    //"response.json() IS ASYNCHRONOUS, IT RETURNS A "promise" </br>
+    return response.json(); </br>
+
+  }).then((productsData) => { </br>
+
+    // console.log(productsData); </br>
+    products = productsData.map((productDetails) => { </br>
+    if (productDetails.type === 'clothing'){ </br>
+      return new Clothing(productDetails); </br>
+    } </br>
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
