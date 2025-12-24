@@ -776,10 +776,12 @@ function getData(callback) { </br>
         callback(data);
     }, 2000); </br>
 } </br>
-
 getData((res) => { </br>
     console.log(res);  //logs  "get Data" after 2 seconds
 }); </br>
+
+2) Promises: </br>
+
 
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
