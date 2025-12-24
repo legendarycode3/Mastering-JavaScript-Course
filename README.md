@@ -783,7 +783,7 @@ getData((res) => { </br>
 2) Promises: </br>
 	i. Promises represent the eventual completion (or failure) of an asynchronous operation and its resulting value. </br>
 	ii. They offer a more structured way to handle asynchronous operation compared to callbacks, allowing for chaining of asynchronous tasks and clearer error handling.</br>
-
+	iii. A “promise” can be in one of the 3 states:  pending, fulfilled (resolved), or rejected. </br>
 
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
