@@ -611,10 +611,8 @@ NOTE: With a “return value or return function” , you can use the value retur
 	We can send a request to each “url paths” and this url path will give us a different response. <br/>
 
 	✔️ Status Code: <br/>
-	(a) A status code that Starts with 4 or  5 (400, 404, 500)  =  “failed". <br/>
-	(b) If it “starts with 4” , it means , “it was our problem”. <br/>
-	(c) If it “starts with 5” , it means , “It was our backend problem”.  E.g backend crashing. <br/>
-	(d) A status code that starts with 2 (200, 201, 204)   =  “succeeded”. <br/>
+	A status code that Starts with 4 or  5 (400, 404, 500)  =  “failed" </br>
+	
 
 	✔️ CALL BACK:   A function to run in the future. “fun” parameter is known as a callBack. <br/>
 	
@@ -638,7 +636,7 @@ NOTE: With a “return value or return function” , you can use the value retur
 
 
 
-	kINDLY FELLOW ME ON MY SOCIALS O LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
+	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
 
 
