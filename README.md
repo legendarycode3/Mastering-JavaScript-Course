@@ -870,6 +870,7 @@ somePromiseFunction() </br>
     console.error("An error occurred:", error); </br>
   }); </br>
 
+- Handling Error in “async await”: </br>
 
 
 
