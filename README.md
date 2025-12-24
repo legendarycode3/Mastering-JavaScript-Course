@@ -624,8 +624,17 @@ NOTE: With a “return value or return function” , you can use the value retur
 	
 
 	✔️ CALL BACK:   A function to run in the future. “fun” parameter is known as a callBack. <br/>
+	E.g 1 </br>
+		function loadProducts(fun) </br>
+		{
+		} 
+		
+		E.g 2 </br>
+		setTimeout(() => { </br>
+			Console.log(‘hello’);
+		}, 3000) </br>
 	
-	✔️ Benefits Of CallBacks:
+	✔️ Benefits Of CallBacks: </br>
 	(i.) Control flow: Callbacks allow  you to control  the order of execution , ensuring certain code runs only after a preceding task has finished. <br/>
 	(ii.) Modularity: They promote modularity  by separating the logic of what to do from when to do it . <br/>
 	(iii.) Non-blocking operation: Essential for asynchronous tasks , preventing the main thread from being blocked. <br/>
