@@ -764,6 +764,7 @@ Provide additional information about the request, such as content type, authenti
 4.) Body (Optional): </br>
 Contains data sent to the server, primarily used with methods like POST, PUT, and PATCH. </br>
 
+✔️ Javascript Provides  Several Mechanisms For Handling “Asynchronous Code” Allowing Operations  That Take Time (like Network requests or file I/O) To Run Before Blocking The Main Thread Of Execution : </br>
 
 	kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
