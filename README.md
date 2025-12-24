@@ -617,6 +617,9 @@ NOTE: With a “return value or return function” , you can use the value retur
 	c) If it  a “404 error”, it means the “server understood the request” but could not find the specific resource. (client-side error). </br>
 	d) If it “starts with 5” , it means , “It was our backend problem” (server or backend error)  E.g backend crashing. </br>
 
+	A status code that starts with 2 (200, 201, 204)   =  “succeeded” </br>
+	
+
 	✔️ CALL BACK:   A function to run in the future. “fun” parameter is known as a callBack. <br/>
 	
 	✔️ Benefits Of CallBacks:
