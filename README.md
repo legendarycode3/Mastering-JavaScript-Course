@@ -612,7 +612,7 @@ NOTE: With a “return value or return function” , you can use the value retur
 
 	✔️ Status Code: <br/>
 	A status code that Starts with 4 or  5 (400, 404, 500)  =  “failed" </br>
-	
+	a)If it “starts with 4” , it means , “it was our problem” (client-side error). </br>
 
 	✔️ CALL BACK:   A function to run in the future. “fun” parameter is known as a callBack. <br/>
 	
