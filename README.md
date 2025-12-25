@@ -955,6 +955,10 @@ It lets use save different datain each URL. </br>
 
 ✔️ Differences Bwtween “ JSON.parse()” and  “JSON.stringify()” :   The key differences between JSON.parse() & JSON.stringify() , are as follow below: </br>
 1. JSON.parse() :
+2. Purpose: Converts a “JSON formatted string” into a “javascript object”.
+Input: A valid JSON string.
+Output: A regular “javascript object” or “array”.
+Common UseCases :
 
 
 
