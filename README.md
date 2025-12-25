@@ -899,6 +899,7 @@ async function fetchData() { </br>
 } </br>
 fetchData(); </br>
 
+E.g 3  handling error in async await(using “try” & “catch”) </br>
 
 
 
