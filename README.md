@@ -956,8 +956,8 @@ It lets use save different datain each URL. </br>
 ✔️ Differences Bwtween “ JSON.parse()” and  “JSON.stringify()” :   The key differences between JSON.parse() & JSON.stringify() , are as follow below: </br>
 1. JSON.parse() :
 - Purpose: Converts a “JSON formatted string” into a “javascript object”.
-- Input: A valid JSON string.
-- Output: A regular “javascript object” or “array”.
+- Inputs: A valid JSON string.
+- Outputs: A regular “javascript object” or “array”.
 - Common UseCases : </br>
 1i.) Receiving data from a web server or API  call, where  the data  is typically transmitted as a JSON string. </br>
 1ii.) Retrieving data from localStorage or sessionStorage, as these browser storage  mechanisms only store data </br>
@@ -971,7 +971,7 @@ console.log(javascriptObject.age); </br>
 
 2. JSON.stringify() : </br>
 - Purpose: Converts a “javascript object” or array  into a “JSON formatted string”. </br>
-- Input: A “JavaScript object” or “array”.
+- Inputs: A “JavaScript object” or “array”. </br>
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
