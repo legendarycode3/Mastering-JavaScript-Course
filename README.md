@@ -897,6 +897,7 @@ async function fetchData() {
     // You can also perform other actions here, like displaying an error message to the user.
   }
 }
+fetchData(); 
 
 
 
