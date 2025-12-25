@@ -947,6 +947,11 @@ When it is a Asyncrhonous code. </br>
 2) Throw Keyword: </br>
 3) Error Object Properties: </br>
 
+NOTE: </br>
+i.“window.location”  Is a special object provided by javascript, used to control the URL  at the top of the Browser. </br>
+
+
+
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
