@@ -961,8 +961,13 @@ It lets use save different datain each URL. </br>
 5. Common UseCases : </br>
 5i.) Receiving data from a web server or API  call, where  the data  is typically transmitted as a JSON string. </br>
 5ii.) Retrieving data from localStorage or sessionStorage, as these browser storage  mechanisms only store data </br>
-E.g for a JSON.parse() usage (below) </br>
 
+E.g for a JSON.parse() usage (below) </br>
+const jsonString = 
+'{ "name": "LegendaryCode", "age": 23, "city": "New York"}'; </br>
+const javascriptObject = JSON.parse(jsonString); </br>
+console.log(javascriptObject.age); </br>
+// Output: 23 </br>
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
 	<img width="225" height="225" alt="love" src="https://github.com/user-attachments/assets/62a4113a-1235-48d4-8b37-d765a3440560" />
