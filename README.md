@@ -970,7 +970,7 @@ console.log(javascriptObject.age); </br>
 // Output: 23 </br>
 
 2. JSON.stringify() : </br>
-
+- Purpose: Converts a “javascript object” or array  into a “JSON formatted string”. </br>
 
 
 
