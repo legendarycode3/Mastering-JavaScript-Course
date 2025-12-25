@@ -919,7 +919,14 @@ if(productDetails.type === 'appliances'){  </br>
   return new Appliances(productDetails);  </br>
 } </br>
 	return new Product(productDetails); </br>
+});
+console.log('load products'); </br>
 
+//fun(); </br>
+}) </br>
+.catch(() => { </br>
+ console.log('failed error while using promise for asynconose code. Please try again'); </br>
+}); </br>
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
