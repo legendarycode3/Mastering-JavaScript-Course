@@ -960,6 +960,8 @@ It lets use save different datain each URL. </br>
 4. Output: A regular “javascript object” or “array”.
 5. Common UseCases :
 5i.) Receiving data from a web server or API  call, where  the data  is typically transmitted as a JSON string.
+5ii.) Retrieving data from localStorage or sessionStorage, as these browser storage  mechanisms only store data 
+
 
 
 kINDLY FELLOW ME ON MY SOCIALS AND LEARN MORE TECH TIPS AND BECOME A TECH BRO YOU DREAM OF : <br/>
